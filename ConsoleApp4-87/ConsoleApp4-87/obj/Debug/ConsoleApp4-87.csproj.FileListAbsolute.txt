@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ConsoleApp4-87\ConsoleApp4-87\bin\Debug\ConsoleApp4-87.exe.config
+C:\Users\Admin\source\repos\ConsoleApp4-87\ConsoleApp4-87\bin\Debug\ConsoleApp4-87.exe
+C:\Users\Admin\source\repos\ConsoleApp4-87\ConsoleApp4-87\bin\Debug\ConsoleApp4-87.pdb
+C:\Users\Admin\source\repos\ConsoleApp4-87\ConsoleApp4-87\obj\Debug\ConsoleApp4-87.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp4-87\ConsoleApp4-87\obj\Debug\ConsoleApp4-87.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp4-87\ConsoleApp4-87\obj\Debug\ConsoleApp4-87.exe
+C:\Users\Admin\source\repos\ConsoleApp4-87\ConsoleApp4-87\obj\Debug\ConsoleApp4-87.pdb

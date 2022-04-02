@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ConsoleApp2-öğrenci\ConsoleApp2-öğrenci\bin\Debug\ConsoleApp2-öğrenci.exe.config
+C:\Users\Admin\source\repos\ConsoleApp2-öğrenci\ConsoleApp2-öğrenci\bin\Debug\ConsoleApp2-öğrenci.exe
+C:\Users\Admin\source\repos\ConsoleApp2-öğrenci\ConsoleApp2-öğrenci\bin\Debug\ConsoleApp2-öğrenci.pdb
+C:\Users\Admin\source\repos\ConsoleApp2-öğrenci\ConsoleApp2-öğrenci\obj\Debug\ConsoleApp2-öğrenci.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp2-öğrenci\ConsoleApp2-öğrenci\obj\Debug\ConsoleApp2-öğrenci.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp2-öğrenci\ConsoleApp2-öğrenci\obj\Debug\ConsoleApp2-öğrenci.exe
+C:\Users\Admin\source\repos\ConsoleApp2-öğrenci\ConsoleApp2-öğrenci\obj\Debug\ConsoleApp2-öğrenci.pdb

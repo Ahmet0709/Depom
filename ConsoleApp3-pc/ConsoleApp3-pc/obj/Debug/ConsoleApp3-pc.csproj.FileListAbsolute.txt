@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ConsoleApp3-pc\ConsoleApp3-pc\bin\Debug\ConsoleApp3-pc.exe.config
+C:\Users\Admin\source\repos\ConsoleApp3-pc\ConsoleApp3-pc\bin\Debug\ConsoleApp3-pc.exe
+C:\Users\Admin\source\repos\ConsoleApp3-pc\ConsoleApp3-pc\bin\Debug\ConsoleApp3-pc.pdb
+C:\Users\Admin\source\repos\ConsoleApp3-pc\ConsoleApp3-pc\obj\Debug\ConsoleApp3-pc.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp3-pc\ConsoleApp3-pc\obj\Debug\ConsoleApp3-pc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp3-pc\ConsoleApp3-pc\obj\Debug\ConsoleApp3-pc.exe
+C:\Users\Admin\source\repos\ConsoleApp3-pc\ConsoleApp3-pc\obj\Debug\ConsoleApp3-pc.pdb

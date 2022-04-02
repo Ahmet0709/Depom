@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ConsoleApp5-88\ConsoleApp5-88\bin\Debug\ConsoleApp5-88.exe.config
+C:\Users\Admin\source\repos\ConsoleApp5-88\ConsoleApp5-88\bin\Debug\ConsoleApp5-88.exe
+C:\Users\Admin\source\repos\ConsoleApp5-88\ConsoleApp5-88\bin\Debug\ConsoleApp5-88.pdb
+C:\Users\Admin\source\repos\ConsoleApp5-88\ConsoleApp5-88\obj\Debug\ConsoleApp5-88.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp5-88\ConsoleApp5-88\obj\Debug\ConsoleApp5-88.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp5-88\ConsoleApp5-88\obj\Debug\ConsoleApp5-88.exe
+C:\Users\Admin\source\repos\ConsoleApp5-88\ConsoleApp5-88\obj\Debug\ConsoleApp5-88.pdb
